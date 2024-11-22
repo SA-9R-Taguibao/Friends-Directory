@@ -1,0 +1,21 @@
+h1 {
+	font-family: monospace;
+	color: #EAE6E5;
+	text-shadow:;
+}
+
+
+body {
+	background-color: #5B9279;
+	color: #8FCB9B;
+}
+
+
+img {
+	width: 450px;
+	height: 310px;
+}
+.container {
+	background-color: darkgray;
+	padding: 15px;
+}
